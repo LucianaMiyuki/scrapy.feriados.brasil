@@ -1,0 +1,546 @@
+ANO,ESTADO,CIDADE,DATA,FERIADO
+2022,AC,Brasiléia,01/01/2022,Ano Novo
+2022,AC,Brasiléia,21/01/2022,Dia Do Católico
+2022,AC,Brasiléia,23/01/2022,Dia Do Evangélico
+2022,AC,Brasiléia,28/02/2022,Carnaval
+2022,AC,Brasiléia,01/03/2022,Carnaval
+2022,AC,Brasiléia,02/03/2022,Carnaval
+2022,AC,Brasiléia,11/03/2022,Dia Da Mulher
+2022,AC,Brasiléia,15/04/2022,Sexta-Feira Santa
+2022,AC,Brasiléia,21/04/2022,Dia De Tiradentes
+2022,AC,Brasiléia,01/05/2022,Dia Do Trabalho
+2022,AC,Brasiléia,15/06/2022,Aniversário Do Acre
+2022,AC,Brasiléia,16/06/2022,Corpus Christi
+2022,AC,Brasiléia,03/07/2022,Feriado Municipal
+2022,AC,Brasiléia,06/08/2022,Revolução Acreana
+2022,AC,Brasiléia,06/09/2022,Feriado Municipal
+2022,AC,Brasiléia,07/09/2022,Independência Do Brasil
+2022,AC,Brasiléia,09/09/2022,Dia Da Amazônia
+2022,AC,Brasiléia,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Brasiléia,15/10/2022,Dia Do Professor
+2022,AC,Brasiléia,28/10/2022,Dia Do Servidor Público
+2022,AC,Brasiléia,02/11/2022,Dia De Finados
+2022,AC,Brasiléia,15/11/2022,Proclamação Da República
+2022,AC,Brasiléia,18/11/2022,Tratado De Petrópolis
+2022,AC,Brasiléia,25/12/2022,Natal
+2022,AC,Assis Brasil,01/01/2022,Ano Novo
+2022,AC,Assis Brasil,21/01/2022,Dia Do Católico
+2022,AC,Assis Brasil,23/01/2022,Dia Do Evangélico
+2022,AC,Assis Brasil,28/02/2022,Carnaval
+2022,AC,Assis Brasil,01/03/2022,Carnaval
+2022,AC,Assis Brasil,02/03/2022,Carnaval
+2022,AC,Assis Brasil,11/03/2022,Dia Da Mulher
+2022,AC,Assis Brasil,15/04/2022,Sexta-Feira Santa
+2022,AC,Assis Brasil,21/04/2022,Dia De Tiradentes
+2022,AC,Assis Brasil,01/05/2022,Dia Do Trabalho
+2022,AC,Assis Brasil,14/05/2022,Feriado Municipal
+2022,AC,Assis Brasil,31/05/2022,Feriado Municipal
+2022,AC,Assis Brasil,15/06/2022,Aniversário Do Acre
+2022,AC,Assis Brasil,16/06/2022,Corpus Christi
+2022,AC,Assis Brasil,06/08/2022,Revolução Acreana
+2022,AC,Assis Brasil,15/08/2022,Feriado Municipal
+2022,AC,Assis Brasil,07/09/2022,Independência Do Brasil
+2022,AC,Assis Brasil,09/09/2022,Dia Da Amazônia
+2022,AC,Assis Brasil,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Assis Brasil,15/10/2022,Dia Do Professor
+2022,AC,Assis Brasil,28/10/2022,Dia Do Servidor Público
+2022,AC,Assis Brasil,02/11/2022,Dia De Finados
+2022,AC,Assis Brasil,15/11/2022,Proclamação Da República
+2022,AC,Assis Brasil,18/11/2022,Tratado De Petrópolis
+2022,AC,Assis Brasil,25/12/2022,Natal
+2022,AC,Acrelândia,01/01/2022,Ano Novo
+2022,AC,Acrelândia,21/01/2022,Dia Do Católico
+2022,AC,Acrelândia,23/01/2022,Dia Do Evangélico
+2022,AC,Acrelândia,28/02/2022,Carnaval
+2022,AC,Acrelândia,01/03/2022,Carnaval
+2022,AC,Acrelândia,02/03/2022,Carnaval
+2022,AC,Acrelândia,11/03/2022,Dia Da Mulher
+2022,AC,Acrelândia,15/04/2022,Sexta-Feira Santa
+2022,AC,Acrelândia,21/04/2022,Dia De Tiradentes
+2022,AC,Acrelândia,28/04/2022,Feriado Municipal
+2022,AC,Acrelândia,01/05/2022,Dia Do Trabalho
+2022,AC,Acrelândia,15/06/2022,Aniversário Do Acre
+2022,AC,Acrelândia,16/06/2022,Corpus Christi
+2022,AC,Acrelândia,06/08/2022,Revolução Acreana
+2022,AC,Acrelândia,06/09/2022,Feriado Municipal
+2022,AC,Acrelândia,07/09/2022,Independência Do Brasil
+2022,AC,Acrelândia,09/09/2022,Dia Da Amazônia
+2022,AC,Acrelândia,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Acrelândia,15/10/2022,Dia Do Professor
+2022,AC,Acrelândia,28/10/2022,Dia Do Servidor Público
+2022,AC,Acrelândia,02/11/2022,Dia De Finados
+2022,AC,Acrelândia,15/11/2022,Proclamação Da República
+2022,AC,Acrelândia,18/11/2022,Tratado De Petrópolis
+2022,AC,Acrelândia,25/12/2022,Natal
+2022,AC,Acre,01/01/2022,Ano Novo
+2022,AC,Acre,21/01/2022,Dia Do Católico
+2022,AC,Acre,23/01/2022,Dia Do Evangélico
+2022,AC,Acre,28/02/2022,Carnaval
+2022,AC,Acre,01/03/2022,Carnaval
+2022,AC,Acre,02/03/2022,Carnaval
+2022,AC,Acre,11/03/2022,Dia Da Mulher
+2022,AC,Acre,15/04/2022,Sexta-Feira Santa
+2022,AC,Acre,21/04/2022,Dia De Tiradentes
+2022,AC,Acre,01/05/2022,Dia Do Trabalho
+2022,AC,Acre,15/06/2022,Aniversário Do Acre
+2022,AC,Acre,16/06/2022,Corpus Christi
+2022,AC,Acre,06/08/2022,Revolução Acreana
+2022,AC,Acre,07/09/2022,Independência Do Brasil
+2022,AC,Acre,09/09/2022,Dia Da Amazônia
+2022,AC,Acre,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Acre,15/10/2022,Dia Do Professor
+2022,AC,Acre,28/10/2022,Dia Do Servidor Público
+2022,AC,Marechal Thaumaturgo,01/01/2022,Ano Novo
+2022,AC,Acre,02/11/2022,Dia De Finados
+2022,AC,Marechal Thaumaturgo,21/01/2022,Dia Do Católico
+2022,AC,Acre,15/11/2022,Proclamação Da República
+2022,AC,Marechal Thaumaturgo,23/01/2022,Dia Do Evangélico
+2022,AC,Acre,18/11/2022,Tratado De Petrópolis
+2022,AC,Acre,25/12/2022,Natal
+2022,AC,Marechal Thaumaturgo,28/02/2022,Carnaval
+2022,AC,Marechal Thaumaturgo,01/03/2022,Carnaval
+2022,AC,Marechal Thaumaturgo,02/03/2022,Carnaval
+2022,AC,Manoel Urbano,01/01/2022,Ano Novo
+2022,AC,Marechal Thaumaturgo,11/03/2022,Dia Da Mulher
+2022,AC,Manoel Urbano,21/01/2022,Dia Do Católico
+2022,AC,Marechal Thaumaturgo,15/04/2022,Sexta-Feira Santa
+2022,AC,Manoel Urbano,23/01/2022,Dia Do Evangélico
+2022,AC,Marechal Thaumaturgo,21/04/2022,Dia De Tiradentes
+2022,AC,Manoel Urbano,28/02/2022,Carnaval
+2022,AC,Mâncio Lima,01/01/2022,Ano Novo
+2022,AC,Marechal Thaumaturgo,01/05/2022,Dia Do Trabalho
+2022,AC,Manoel Urbano,01/03/2022,Carnaval
+2022,AC,Mâncio Lima,20/01/2022,Feriado Municipal
+2022,AC,Marechal Thaumaturgo,15/06/2022,Aniversário Do Acre
+2022,AC,Manoel Urbano,02/03/2022,Carnaval
+2022,AC,Mâncio Lima,21/01/2022,Dia Do Católico
+2022,AC,Marechal Thaumaturgo,16/06/2022,Corpus Christi
+2022,AC,Manoel Urbano,11/03/2022,Dia Da Mulher
+2022,AC,Mâncio Lima,23/01/2022,Dia Do Evangélico
+2022,AC,Marechal Thaumaturgo,06/08/2022,Revolução Acreana
+2022,AC,Manoel Urbano,15/04/2022,Sexta-Feira Santa
+2022,AC,Manoel Urbano,21/04/2022,Dia De Tiradentes
+2022,AC,Mâncio Lima,28/02/2022,Carnaval
+2022,AC,Marechal Thaumaturgo,07/09/2022,Independência Do Brasil
+2022,AC,Manoel Urbano,01/05/2022,Dia Do Trabalho
+2022,AC,Jordão,01/01/2022,Ano Novo
+2022,AC,Mâncio Lima,01/03/2022,Carnaval
+2022,AC,Marechal Thaumaturgo,09/09/2022,Dia Da Amazônia
+2022,AC,Manoel Urbano,14/05/2022,Feriado Municipal
+2022,AC,Jordão,21/01/2022,Dia Do Católico
+2022,AC,Jordão,23/01/2022,Dia Do Evangélico
+2022,AC,Mâncio Lima,02/03/2022,Carnaval
+2022,AC,Marechal Thaumaturgo,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Manoel Urbano,15/06/2022,Aniversário Do Acre
+2022,AC,Jordão,28/02/2022,Carnaval
+2022,AC,Mâncio Lima,11/03/2022,Dia Da Mulher
+2022,AC,Marechal Thaumaturgo,15/10/2022,Dia Do Professor
+2022,AC,Manoel Urbano,16/06/2022,Corpus Christi
+2022,AC,Manoel Urbano,06/08/2022,Revolução Acreana
+2022,AC,Jordão,01/03/2022,Carnaval
+2022,AC,Feijó,01/01/2022,Ano Novo
+2022,AC,Mâncio Lima,15/04/2022,Sexta-Feira Santa
+2022,AC,Marechal Thaumaturgo,28/10/2022,Dia Do Servidor Público
+2022,AC,Manoel Urbano,06/09/2022,Feriado Municipal
+2022,AC,Jordão,02/03/2022,Carnaval
+2022,AC,Feijó,21/01/2022,Dia Do Católico
+2022,AC,Mâncio Lima,21/04/2022,Dia De Tiradentes
+2022,AC,Marechal Thaumaturgo,02/11/2022,Dia De Finados
+2022,AC,Manoel Urbano,07/09/2022,Independência Do Brasil
+2022,AC,Epitaciolândia,01/01/2022,Ano Novo
+2022,AC,Jordão,11/03/2022,Dia Da Mulher
+2022,AC,Feijó,23/01/2022,Dia Do Evangélico
+2022,AC,Mâncio Lima,01/05/2022,Dia Do Trabalho
+2022,AC,Marechal Thaumaturgo,15/11/2022,Proclamação Da República
+2022,AC,Marechal Thaumaturgo,18/11/2022,Tratado De Petrópolis
+2022,AC,Manoel Urbano,09/09/2022,Dia Da Amazônia
+2022,AC,Epitaciolândia,20/01/2022,Feriado Municipal
+2022,AC,Jordão,15/04/2022,Sexta-Feira Santa
+2022,AC,Feijó,28/02/2022,Carnaval
+2022,AC,Mâncio Lima,30/05/2022,Feriado Municipal
+2022,AC,Marechal Thaumaturgo,25/12/2022,Natal
+2022,AC,Manoel Urbano,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Cruzeiro Do Sul,01/01/2022,Ano Novo
+2022,AC,Epitaciolândia,21/01/2022,Dia Do Católico
+2022,AC,Jordão,21/04/2022,Dia De Tiradentes
+2022,AC,Feijó,01/03/2022,Carnaval
+2022,AC,Mâncio Lima,15/06/2022,Aniversário Do Acre
+2022,AC,Manoel Urbano,15/10/2022,Dia Do Professor
+2022,AC,Cruzeiro Do Sul,21/01/2022,Dia Do Católico
+2022,AC,Epitaciolândia,23/01/2022,Dia Do Evangélico
+2022,AC,Jordão,01/05/2022,Dia Do Trabalho
+2022,AC,Feijó,02/03/2022,Carnaval
+2022,AC,Mâncio Lima,16/06/2022,Corpus Christi
+2022,AC,Manoel Urbano,28/10/2022,Dia Do Servidor Público
+2022,AC,Capixaba,01/01/2022,Ano Novo
+2022,AC,Cruzeiro Do Sul,23/01/2022,Dia Do Evangélico
+2022,AC,Cruzeiro Do Sul,28/02/2022,Carnaval
+2022,AC,Epitaciolândia,28/02/2022,Carnaval
+2022,AC,Jordão,15/06/2022,Aniversário Do Acre
+2022,AC,Feijó,11/03/2022,Dia Da Mulher
+2022,AC,Feijó,15/04/2022,Sexta-Feira Santa
+2022,AC,Mâncio Lima,06/08/2022,Revolução Acreana
+2022,AC,Manoel Urbano,02/11/2022,Dia De Finados
+2022,AC,Capixaba,21/01/2022,Dia Do Católico
+2022,AC,Cruzeiro Do Sul,01/03/2022,Carnaval
+2022,AC,Epitaciolândia,01/03/2022,Carnaval
+2022,AC,Jordão,16/06/2022,Corpus Christi
+2022,AC,Feijó,21/04/2022,Dia De Tiradentes
+2022,AC,Mâncio Lima,06/09/2022,Feriado Municipal
+2022,AC,Mâncio Lima,07/09/2022,Independência Do Brasil
+2022,AC,Manoel Urbano,15/11/2022,Proclamação Da República
+2022,AC,Capixaba,23/01/2022,Dia Do Evangélico
+2022,AC,Cruzeiro Do Sul,02/03/2022,Carnaval
+2022,AC,Epitaciolândia,02/03/2022,Carnaval
+2022,AC,Jordão,06/08/2022,Revolução Acreana
+2022,AC,Feijó,01/05/2022,Dia Do Trabalho
+2022,AC,Mâncio Lima,09/09/2022,Dia Da Amazônia
+2022,AC,Manoel Urbano,18/11/2022,Tratado De Petrópolis
+2022,AC,Capixaba,28/02/2022,Carnaval
+2022,AC,Cruzeiro Do Sul,11/03/2022,Dia Da Mulher
+2022,AC,Epitaciolândia,11/03/2022,Dia Da Mulher
+2022,AC,Jordão,07/09/2022,Independência Do Brasil
+2022,AC,Feijó,15/06/2022,Aniversário Do Acre
+2022,AC,Mâncio Lima,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Bujari,01/01/2022,Ano Novo
+2022,AC,Manoel Urbano,18/11/2022,Feriado Municipal
+2022,AC,Capixaba,01/03/2022,Carnaval
+2022,AC,Cruzeiro Do Sul,15/04/2022,Sexta-Feira Santa
+2022,AC,Cruzeiro Do Sul,21/04/2022,Dia De Tiradentes
+2022,AC,Epitaciolândia,15/04/2022,Sexta-Feira Santa
+2022,AC,Jordão,09/09/2022,Dia Da Amazônia
+2022,AC,Feijó,16/06/2022,Corpus Christi
+2022,AC,Mâncio Lima,15/10/2022,Dia Do Professor
+2022,AC,Bujari,21/01/2022,Dia Do Católico
+2022,AC,Manoel Urbano,25/12/2022,Natal
+2022,AC,Capixaba,02/03/2022,Carnaval
+2022,AC,Cruzeiro Do Sul,01/05/2022,Dia Do Trabalho
+2022,AC,Santa Rosa Do Purus,01/01/2022,Ano Novo
+2022,AC,Epitaciolândia,21/04/2022,Dia De Tiradentes
+2022,AC,Jordão,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Feijó,27/06/2022,Dia Da Padroeira Da Cidade
+2022,AC,Mâncio Lima,28/10/2022,Dia Do Servidor Público
+2022,AC,Mâncio Lima,02/11/2022,Dia De Finados
+2022,AC,Bujari,23/01/2022,Dia Do Evangélico
+2022,AC,Capixaba,11/03/2022,Dia Da Mulher
+2022,AC,Cruzeiro Do Sul,15/06/2022,Aniversário Do Acre
+2022,AC,Santa Rosa Do Purus,21/01/2022,Dia Do Católico
+2022,AC,Santa Rosa Do Purus,23/01/2022,Dia Do Evangélico
+2022,AC,Epitaciolândia,28/04/2022,Feriado Municipal
+2022,AC,Jordão,15/10/2022,Dia Do Professor
+2022,AC,Feijó,06/08/2022,Revolução Acreana
+2022,AC,Mâncio Lima,15/11/2022,Proclamação Da República
+2022,AC,Mâncio Lima,18/11/2022,Tratado De Petrópolis
+2022,AC,Bujari,28/02/2022,Carnaval
+2022,AC,Capixaba,15/04/2022,Sexta-Feira Santa
+2022,AC,Cruzeiro Do Sul,16/06/2022,Corpus Christi
+2022,AC,Santa Rosa Do Purus,28/02/2022,Carnaval
+2022,AC,Santa Rosa Do Purus,01/03/2022,Carnaval
+2022,AC,Epitaciolândia,01/05/2022,Dia Do Trabalho
+2022,AC,Jordão,28/10/2022,Dia Do Servidor Público
+2022,AC,Jordão,02/11/2022,Dia De Finados
+2022,AC,Feijó,06/09/2022,Feriado Municipal
+2022,AC,Mâncio Lima,25/12/2022,Natal
+2022,AC,Bujari,01/03/2022,Carnaval
+2022,AC,Capixaba,21/04/2022,Dia De Tiradentes
+2022,AC,Capixaba,01/05/2022,Dia Do Trabalho
+2022,AC,Cruzeiro Do Sul,06/08/2022,Revolução Acreana
+2022,AC,Santa Rosa Do Purus,02/03/2022,Carnaval
+2022,AC,Santa Rosa Do Purus,11/03/2022,Dia Da Mulher
+2022,AC,Epitaciolândia,15/06/2022,Aniversário Do Acre
+2022,AC,Jordão,15/11/2022,Proclamação Da República
+2022,AC,Rodrigues Alves,01/01/2022,Ano Novo
+2022,AC,Feijó,07/09/2022,Independência Do Brasil
+2022,AC,Bujari,02/03/2022,Carnaval
+2022,AC,Capixaba,15/06/2022,Aniversário Do Acre
+2022,AC,Cruzeiro Do Sul,19/08/2022,Nossa Sra Da Glória
+2022,AC,Santa Rosa Do Purus,15/04/2022,Sexta-Feira Santa
+2022,AC,Epitaciolândia,16/06/2022,Corpus Christi
+2022,AC,Jordão,18/11/2022,Tratado De Petrópolis
+2022,AC,Rodrigues Alves,21/01/2022,Dia Do Católico
+2022,AC,Feijó,09/09/2022,Dia Da Amazônia
+2022,AC,Bujari,11/03/2022,Dia Da Mulher
+2022,AC,Capixaba,16/06/2022,Corpus Christi
+2022,AC,Cruzeiro Do Sul,07/09/2022,Independência Do Brasil
+2022,AC,Santa Rosa Do Purus,21/04/2022,Dia De Tiradentes
+2022,AC,Epitaciolândia,06/08/2022,Revolução Acreana
+2022,AC,Jordão,25/12/2022,Natal
+2022,AC,Rodrigues Alves,23/01/2022,Dia Do Evangélico
+2022,AC,Feijó,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Bujari,15/04/2022,Sexta-Feira Santa
+2022,AC,Capixaba,06/08/2022,Revolução Acreana
+2022,AC,Cruzeiro Do Sul,09/09/2022,Dia Da Amazônia
+2022,AC,Santa Rosa Do Purus,01/05/2022,Dia Do Trabalho
+2022,AC,Epitaciolândia,06/09/2022,Feriado Municipal
+2022,AC,Rodrigues Alves,28/02/2022,Carnaval
+2022,AC,Rodrigues Alves,01/03/2022,Carnaval
+2022,AC,Feijó,15/10/2022,Dia Do Professor
+2022,AC,Bujari,21/04/2022,Dia De Tiradentes
+2022,AC,Capixaba,06/09/2022,Feriado Municipal
+2022,AC,Cruzeiro Do Sul,30/09/2022,Aniversário Da Cidade
+2022,AC,Cruzeiro Do Sul,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Santa Rosa Do Purus,15/06/2022,Aniversário Do Acre
+2022,AC,Epitaciolândia,07/09/2022,Independência Do Brasil
+2022,AC,Rodrigues Alves,02/03/2022,Carnaval
+2022,AC,Feijó,28/10/2022,Dia Do Servidor Público
+2022,AC,Bujari,01/05/2022,Dia Do Trabalho
+2022,AC,Capixaba,07/09/2022,Independência Do Brasil
+2022,AC,Cruzeiro Do Sul,15/10/2022,Dia Do Professor
+2022,AC,Santa Rosa Do Purus,16/06/2022,Corpus Christi
+2022,AC,Epitaciolândia,09/09/2022,Dia Da Amazônia
+2022,AC,Rodrigues Alves,11/03/2022,Dia Da Mulher
+2022,AC,Feijó,02/11/2022,Dia De Finados
+2022,AC,Feijó,15/11/2022,Proclamação Da República
+2022,AC,Rio Branco,01/01/2022,Ano Novo
+2022,AC,Bujari,15/06/2022,Aniversário Do Acre
+2022,AC,Bujari,16/06/2022,Corpus Christi
+2022,AC,Capixaba,09/09/2022,Dia Da Amazônia
+2022,AC,Cruzeiro Do Sul,28/10/2022,Dia Do Servidor Público
+2022,AC,Santa Rosa Do Purus,06/08/2022,Revolução Acreana
+2022,AC,Epitaciolândia,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Rodrigues Alves,15/04/2022,Sexta-Feira Santa
+2022,AC,Feijó,18/11/2022,Tratado De Petrópolis
+2022,AC,Rio Branco,21/01/2022,Dia Do Católico
+2022,AC,Bujari,06/08/2022,Revolução Acreana
+2022,AC,Capixaba,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Cruzeiro Do Sul,02/11/2022,Dia De Finados
+2022,AC,Santa Rosa Do Purus,07/09/2022,Independência Do Brasil
+2022,AC,Epitaciolândia,15/10/2022,Dia Do Professor
+2022,AC,Rodrigues Alves,21/04/2022,Dia De Tiradentes
+2022,AC,Feijó,21/12/2022,Feriado Municipal
+2022,AC,Rio Branco,23/01/2022,Dia Do Evangélico
+2022,AC,Bujari,06/09/2022,Feriado Municipal
+2022,AC,Capixaba,15/10/2022,Dia Do Professor
+2022,AC,Cruzeiro Do Sul,15/11/2022,Proclamação Da República
+2022,AC,Santa Rosa Do Purus,09/09/2022,Dia Da Amazônia
+2022,AC,Epitaciolândia,28/10/2022,Dia Do Servidor Público
+2022,AC,Rodrigues Alves,01/05/2022,Dia Do Trabalho
+2022,AC,Feijó,25/12/2022,Natal
+2022,AC,Rio Branco,28/02/2022,Carnaval
+2022,AC,Bujari,07/09/2022,Independência Do Brasil
+2022,AC,Capixaba,28/10/2022,Dia Do Servidor Público
+2022,AC,Cruzeiro Do Sul,18/11/2022,Tratado De Petrópolis
+2022,AC,Santa Rosa Do Purus,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Epitaciolândia,02/11/2022,Dia De Finados
+2022,AC,Rodrigues Alves,15/06/2022,Aniversário Do Acre
+2022,AC,Rio Branco,01/03/2022,Carnaval
+2022,AC,Bujari,09/09/2022,Dia Da Amazônia
+2022,AC,Capixaba,02/11/2022,Dia De Finados
+2022,AC,Cruzeiro Do Sul,25/12/2022,Natal
+2022,AC,Santa Rosa Do Purus,15/10/2022,Dia Do Professor
+2022,AC,Epitaciolândia,15/11/2022,Proclamação Da República
+2022,AC,Rodrigues Alves,16/06/2022,Corpus Christi
+2022,AC,Rio Branco,02/03/2022,Carnaval
+2022,AC,Bujari,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Bujari,15/10/2022,Dia Do Professor
+2022,AC,Capixaba,15/11/2022,Proclamação Da República
+2022,AC,Santa Rosa Do Purus,28/10/2022,Dia Do Servidor Público
+2022,AC,Epitaciolândia,18/11/2022,Tratado De Petrópolis
+2022,AC,Rodrigues Alves,06/08/2022,Revolução Acreana
+2022,AC,Rio Branco,11/03/2022,Dia Da Mulher
+2022,AC,Bujari,28/10/2022,Dia Do Servidor Público
+2022,AC,Capixaba,18/11/2022,Tratado De Petrópolis
+2022,AC,Santa Rosa Do Purus,02/11/2022,Dia De Finados
+2022,AC,Epitaciolândia,25/12/2022,Natal
+2022,AC,Rodrigues Alves,07/09/2022,Independência Do Brasil
+2022,AC,Rodrigues Alves,09/09/2022,Dia Da Amazônia
+2022,AC,Rio Branco,15/04/2022,Sexta-Feira Santa
+2022,AC,Bujari,02/11/2022,Dia De Finados
+2022,AC,Bujari,15/11/2022,Proclamação Da República
+2022,AC,Capixaba,25/12/2022,Natal
+2022,AC,Santa Rosa Do Purus,15/11/2022,Proclamação Da República
+2022,AC,Rodrigues Alves,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Rio Branco,21/04/2022,Dia De Tiradentes
+2022,AC,Bujari,18/11/2022,Tratado De Petrópolis
+2022,AC,Santa Rosa Do Purus,18/11/2022,Tratado De Petrópolis
+2022,AC,Rodrigues Alves,15/10/2022,Dia Do Professor
+2022,AC,Rio Branco,01/05/2022,Dia Do Trabalho
+2022,AC,Bujari,25/12/2022,Natal
+2022,AC,Santa Rosa Do Purus,25/12/2022,Natal
+2022,AC,Rodrigues Alves,28/10/2022,Dia Do Servidor Público
+2022,AC,Rio Branco,15/06/2022,Aniversário Do Acre
+2022,AC,Rodrigues Alves,02/11/2022,Dia De Finados
+2022,AC,Rodrigues Alves,15/11/2022,Proclamação Da República
+2022,AC,Rio Branco,16/06/2022,Corpus Christi
+2022,AC,Rodrigues Alves,18/11/2022,Tratado De Petrópolis
+2022,AC,Rio Branco,06/08/2022,Revolução Acreana
+2022,AC,Rodrigues Alves,25/12/2022,Natal
+2022,AC,Rio Branco,07/09/2022,Independência Do Brasil
+2022,AC,Rio Branco,09/09/2022,Dia Da Amazônia
+2022,AC,Rio Branco,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Rio Branco,15/10/2022,Dia Do Professor
+2022,AC,Rio Branco,28/10/2022,Dia Do Servidor Público
+2022,AC,Rio Branco,02/11/2022,Dia De Finados
+2022,AC,Rio Branco,15/11/2022,Proclamação Da República
+2022,AC,Rio Branco,18/11/2022,Tratado De Petrópolis
+2022,AC,Rio Branco,25/12/2022,Natal
+2022,AC,Rio Branco,28/12/2022,Aniversário
+2022,AC,Xapuri,01/01/2022,Ano Novo
+2022,AC,Xapuri,20/01/2022,Feriado Municipal
+2022,AC,Xapuri,21/01/2022,Dia Do Católico
+2022,AC,Xapuri,23/01/2022,Dia Do Evangélico
+2022,AC,Xapuri,28/02/2022,Carnaval
+2022,AC,Xapuri,01/03/2022,Carnaval
+2022,AC,Xapuri,02/03/2022,Carnaval
+2022,AC,Xapuri,11/03/2022,Dia Da Mulher
+2022,AC,Xapuri,15/04/2022,Sexta-Feira Santa
+2022,AC,Xapuri,21/04/2022,Dia De Tiradentes
+2022,AC,Xapuri,01/05/2022,Dia Do Trabalho
+2022,AC,Xapuri,15/06/2022,Aniversário Do Acre
+2022,AC,Xapuri,16/06/2022,Corpus Christi
+2022,AC,Xapuri,06/08/2022,Revolução Acreana
+2022,AC,Xapuri,06/09/2022,Feriado Municipal
+2022,AC,Xapuri,07/09/2022,Independência Do Brasil
+2022,AC,Xapuri,09/09/2022,Dia Da Amazônia
+2022,AC,Xapuri,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Xapuri,15/10/2022,Dia Do Professor
+2022,AC,Xapuri,28/10/2022,Dia Do Servidor Público
+2022,AC,Xapuri,02/11/2022,Dia De Finados
+2022,AC,Xapuri,15/11/2022,Proclamação Da República
+2022,AC,Xapuri,18/11/2022,Tratado De Petrópolis
+2022,AC,Xapuri,22/12/2022,Feriado Municipal
+2022,AC,Xapuri,25/12/2022,Natal
+2022,AC,Tarauacá,01/01/2022,Ano Novo
+2022,AC,Tarauacá,21/01/2022,Dia Do Católico
+2022,AC,Tarauacá,23/01/2022,Dia Do Evangélico
+2022,AC,Tarauacá,28/02/2022,Carnaval
+2022,AC,Tarauacá,01/03/2022,Carnaval
+2022,AC,Tarauacá,02/03/2022,Carnaval
+2022,AC,Tarauacá,11/03/2022,Dia Da Mulher
+2022,AC,Tarauacá,15/04/2022,Sexta-Feira Santa
+2022,AC,Tarauacá,21/04/2022,Dia De Tiradentes
+2022,AC,Tarauacá,24/04/2022,Aniversário Da Cidade
+2022,AC,Tarauacá,01/05/2022,Dia Do Trabalho
+2022,AC,Tarauacá,15/06/2022,Aniversário Do Acre
+2022,AC,Tarauacá,16/06/2022,Corpus Christi
+2022,AC,Tarauacá,06/08/2022,Revolução Acreana
+2022,AC,Tarauacá,07/09/2022,Independência Do Brasil
+2022,AC,Tarauacá,09/09/2022,Dia Da Amazônia
+2022,AC,Tarauacá,04/10/2022,Dia De S. Francisco Assis
+2022,AC,Tarauacá,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Tarauacá,15/10/2022,Dia Do Professor
+2022,AC,Tarauacá,28/10/2022,Dia Do Servidor Público
+2022,AC,Tarauacá,02/11/2022,Dia De Finados
+2022,AC,Tarauacá,15/11/2022,Proclamação Da República
+2022,AC,Tarauacá,18/11/2022,Tratado De Petrópolis
+2022,AC,Tarauacá,25/12/2022,Natal
+2022,AC,Senador Guiomard,01/01/2022,Ano Novo
+2022,AC,Senador Guiomard,21/01/2022,Dia Do Católico
+2022,AC,Senador Guiomard,23/01/2022,Dia Do Evangélico
+2022,AC,Senador Guiomard,28/02/2022,Carnaval
+2022,AC,Senador Guiomard,01/03/2022,Carnaval
+2022,AC,Senador Guiomard,02/03/2022,Carnaval
+2022,AC,Senador Guiomard,11/03/2022,Dia Da Mulher
+2022,AC,Senador Guiomard,15/04/2022,Sexta-Feira Santa
+2022,AC,Senador Guiomard,21/04/2022,Dia De Tiradentes
+2022,AC,Senador Guiomard,01/05/2022,Dia Do Trabalho
+2022,AC,Senador Guiomard,14/05/2022,Feriado Municipal
+2022,AC,Senador Guiomard,31/05/2022,Feriado Municipal
+2022,AC,Senador Guiomard,15/06/2022,Aniversário Do Acre
+2022,AC,Senador Guiomard,16/06/2022,Corpus Christi
+2022,AC,Sena Madureira,01/01/2022,Ano Novo
+2022,AC,Senador Guiomard,06/08/2022,Revolução Acreana
+2022,AC,Sena Madureira,21/01/2022,Dia Do Católico
+2022,AC,Senador Guiomard,06/09/2022,Feriado Municipal
+2022,AC,Sena Madureira,23/01/2022,Dia Do Evangélico
+2022,AC,Senador Guiomard,07/09/2022,Independência Do Brasil
+2022,AC,Sena Madureira,28/02/2022,Carnaval
+2022,AC,Senador Guiomard,09/09/2022,Dia Da Amazônia
+2022,AC,Sena Madureira,01/03/2022,Carnaval
+2022,AC,Senador Guiomard,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Sena Madureira,02/03/2022,Carnaval
+2022,AC,Senador Guiomard,15/10/2022,Dia Do Professor
+2022,AC,Sena Madureira,11/03/2022,Dia Da Mulher
+2022,AC,Senador Guiomard,28/10/2022,Dia Do Servidor Público
+2022,AC,Sena Madureira,08/04/2022,Padre Paulino Baldassari
+2022,AC,Porto Walter,01/01/2022,Ano Novo
+2022,AC,Senador Guiomard,02/11/2022,Dia De Finados
+2022,AC,Sena Madureira,15/04/2022,Sexta-Feira Santa
+2022,AC,Porto Walter,21/01/2022,Dia Do Católico
+2022,AC,Senador Guiomard,15/11/2022,Proclamação Da República
+2022,AC,Sena Madureira,21/04/2022,Dia De Tiradentes
+2022,AC,Porto Walter,23/01/2022,Dia Do Evangélico
+2022,AC,Senador Guiomard,18/11/2022,Tratado De Petrópolis
+2022,AC,Sena Madureira,01/05/2022,Dia Do Trabalho
+2022,AC,Porto Walter,28/02/2022,Carnaval
+2022,AC,Senador Guiomard,25/12/2022,Natal
+2022,AC,Sena Madureira,15/06/2022,Aniversário Do Acre
+2022,AC,Porto Walter,01/03/2022,Carnaval
+2022,AC,Sena Madureira,16/06/2022,Corpus Christi
+2022,AC,Porto Acre,01/01/2022,Ano Novo
+2022,AC,Porto Walter,02/03/2022,Carnaval
+2022,AC,Sena Madureira,06/08/2022,Revolução Acreana
+2022,AC,Porto Acre,21/01/2022,Dia Do Católico
+2022,AC,Porto Walter,11/03/2022,Dia Da Mulher
+2022,AC,Sena Madureira,06/09/2022,Feriado Municipal
+2022,AC,Plácido De Castro,01/01/2022,Ano Novo
+2022,AC,Porto Acre,23/01/2022,Dia Do Evangélico
+2022,AC,Porto Walter,15/04/2022,Sexta-Feira Santa
+2022,AC,Sena Madureira,07/09/2022,Independência Do Brasil
+2022,AC,Plácido De Castro,21/01/2022,Dia Do Católico
+2022,AC,Porto Acre,28/02/2022,Carnaval
+2022,AC,Porto Walter,21/04/2022,Dia De Tiradentes
+2022,AC,Sena Madureira,09/09/2022,Dia Da Amazônia
+2022,AC,Plácido De Castro,23/01/2022,Dia Do Evangélico
+2022,AC,Porto Acre,01/03/2022,Carnaval
+2022,AC,Porto Walter,01/05/2022,Dia Do Trabalho
+2022,AC,Sena Madureira,25/09/2022,Feriado Municipal
+2022,AC,Plácido De Castro,28/02/2022,Carnaval
+2022,AC,Porto Acre,02/03/2022,Carnaval
+2022,AC,Porto Walter,15/06/2022,Aniversário Do Acre
+2022,AC,Sena Madureira,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Plácido De Castro,01/03/2022,Carnaval
+2022,AC,Porto Acre,11/03/2022,Dia Da Mulher
+2022,AC,Porto Walter,16/06/2022,Corpus Christi
+2022,AC,Sena Madureira,15/10/2022,Dia Do Professor
+2022,AC,Plácido De Castro,02/03/2022,Carnaval
+2022,AC,Porto Acre,15/04/2022,Sexta-Feira Santa
+2022,AC,Porto Walter,06/08/2022,Revolução Acreana
+2022,AC,Sena Madureira,28/10/2022,Dia Do Servidor Público
+2022,AC,Plácido De Castro,11/03/2022,Dia Da Mulher
+2022,AC,Porto Acre,21/04/2022,Dia De Tiradentes
+2022,AC,Porto Walter,07/09/2022,Independência Do Brasil
+2022,AC,Sena Madureira,02/11/2022,Dia De Finados
+2022,AC,Plácido De Castro,30/03/2022,Feriado Municipal
+2022,AC,Porto Acre,01/05/2022,Dia Do Trabalho
+2022,AC,Porto Walter,09/09/2022,Dia Da Amazônia
+2022,AC,Sena Madureira,15/11/2022,Proclamação Da República
+2022,AC,Plácido De Castro,15/04/2022,Sexta-Feira Santa
+2022,AC,Porto Acre,15/06/2022,Aniversário Do Acre
+2022,AC,Porto Walter,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Sena Madureira,18/11/2022,Tratado De Petrópolis
+2022,AC,Plácido De Castro,21/04/2022,Dia De Tiradentes
+2022,AC,Porto Acre,16/06/2022,Corpus Christi
+2022,AC,Porto Walter,15/10/2022,Dia Do Professor
+2022,AC,Sena Madureira,08/12/2022,Feriado Municipal
+2022,AC,Plácido De Castro,01/05/2022,Dia Do Trabalho
+2022,AC,Porto Acre,06/08/2022,Revolução Acreana
+2022,AC,Porto Walter,28/10/2022,Dia Do Servidor Público
+2022,AC,Sena Madureira,25/12/2022,Natal
+2022,AC,Plácido De Castro,15/06/2022,Aniversário Do Acre
+2022,AC,Porto Acre,06/09/2022,Feriado Municipal
+2022,AC,Porto Walter,02/11/2022,Dia De Finados
+2022,AC,Plácido De Castro,16/06/2022,Corpus Christi
+2022,AC,Porto Acre,07/09/2022,Independência Do Brasil
+2022,AC,Porto Walter,15/11/2022,Proclamação Da República
+2022,AC,Plácido De Castro,06/08/2022,Revolução Acreana
+2022,AC,Porto Acre,09/09/2022,Dia Da Amazônia
+2022,AC,Porto Walter,18/11/2022,Tratado De Petrópolis
+2022,AC,Plácido De Castro,06/09/2022,Feriado Municipal
+2022,AC,Porto Acre,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Porto Walter,25/12/2022,Natal
+2022,AC,Plácido De Castro,07/09/2022,Independência Do Brasil
+2022,AC,Porto Acre,15/10/2022,Dia Do Professor
+2022,AC,Plácido De Castro,09/09/2022,Dia Da Amazônia
+2022,AC,Porto Acre,28/10/2022,Dia Do Servidor Público
+2022,AC,Plácido De Castro,12/10/2022,Nossa Senhora Aparecida
+2022,AC,Porto Acre,02/11/2022,Dia De Finados
+2022,AC,Plácido De Castro,15/10/2022,Dia Do Professor
+2022,AC,Porto Acre,15/11/2022,Proclamação Da República
+2022,AC,Plácido De Castro,28/10/2022,Dia Do Servidor Público
+2022,AC,Porto Acre,18/11/2022,Tratado De Petrópolis
+2022,AC,Plácido De Castro,02/11/2022,Dia De Finados
+2022,AC,Porto Acre,25/12/2022,Natal
+2022,AC,Plácido De Castro,15/11/2022,Proclamação Da República
+2022,AC,Plácido De Castro,18/11/2022,Tratado De Petrópolis
+2022,AC,Plácido De Castro,25/12/2022,Natal
